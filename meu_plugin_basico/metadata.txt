@@ -1,9 +1,9 @@
 [general]
-name=Meu Plugin Basico
-description=Plugin de teste com janela simples
+name=Layer Loader
+description=Plugin para busca e download de recortes Sentinel-2 no QGIS
 version=0.1
 qgisMinimumVersion=3.0
 author=Seu Nome
 email=seuemail@exemplo.com
-about=Plugin mínimo para abrir uma janela com label e botão.
+about=Plugin para seleção de ponto no mapa, busca de imagens Sentinel-2, geração de recorte RGB 10 m e carregamento automático do raster no QGIS.
 icon=icon.png
