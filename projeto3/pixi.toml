@@ -8,3 +8,4 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
+qgis = ">=3.44.9,<4"
